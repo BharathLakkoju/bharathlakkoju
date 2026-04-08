@@ -50,16 +50,16 @@ Calorie tracking & health app
 ### 👨‍💻 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-eeeeee?style=for-the-badge&logo=tailwind-css)
 
 ### ⚙️ Backend
-![Node JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![Node JS](https://img.shields.io/badge/Node.js-eeeeee?style=for-the-badge&logo=node.js)
+![Supabase](https://img.shields.io/badge/Supabase-eeeeee?style=for-the-badge&logo=supabase)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-eeeeee?style=for-the-badge&logo=postgresql)
 
 ### 🤖 AI & Tools
 ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Docker](https://img.shields.io/badge/Docker-eeeeee?style=for-the-badge&logo=docker)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 
 ---
