@@ -22,7 +22,7 @@ I obsess over building tools that are both technically sharp and genuinely usefu
 - 🧠 &nbsp;Exploring: LLM integrations, agentic systems, multi-agent pipelines
 - 🎯 &nbsp;Open to: **SDE-1 / SDE-2 · Full Stack · AI Engineer** roles at product companies & MNCs
 - 📬 &nbsp;Reach me: [lbh.lbharath@gmail.com](mailto:lbh.lbharath@gmail.com)
-- 🌐 &nbsp;Portfolio: [bharath-lakkoju-portfolio.vercel.app](https://bharath-lakkoju-portfolio.vercel.app)
+- 🌐 &nbsp;Portfolio: [bharathlakkoju.vercel.app](https://bharathlakkoju.vercel.app)
 
 ---
 
@@ -172,7 +172,7 @@ Full Stack development on enterprise-grade web applications.
 **Let's build something great.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bharathlakkoju-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/bharathlakkoju)
-[![Portfolio](https://img.shields.io/badge/Portfolio-bharath--lakkoju-000000?style=flat-square&logo=vercel)](https://bharath-lakkoju-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-bharath--lakkoju-000000?style=flat-square&logo=vercel)](https://bharathlakkoju.vercel.app)
 [![Email](https://img.shields.io/badge/Email-lbh.lbharath@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:lbh.lbharath@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-BharathLakkoju-181717?style=flat-square&logo=github)](https://github.com/BharathLakkoju)
 
